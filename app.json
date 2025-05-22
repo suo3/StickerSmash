@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "09d730d4-4136-43b8-b331-0c8eeca155c7"
+      }
+    },
+    "owner": "obiaproduction"
   }
 }
