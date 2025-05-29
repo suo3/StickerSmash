@@ -1,19 +1,19 @@
 {
   "expo": {
-    "name": "StickerSmash",
-    "slug": "StickerSmash",
+    "name": "StickerApp",
+    "slug": "StickerApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "stickersmash",
+    "scheme": "stickersapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.obiaproduction.stickersmash"
+      "bundleIdentifier": "com.obiaproduction.stickerapp"
     },
     "android": {
-      "package": "com.obiaproduction.stickersmash",
+      "package": "com.obiaproduction.stickerapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
